@@ -1,33 +1,73 @@
-# Hi there! 👋 I'm Mohammad
+<!-- Banner Section -->
+<div align="center">
+  <img src="https://github.com/Mr3DWeb/Mr3DWeb/blob/main/I%20build%20impersive%203d%20website.gif" alt="Mohammad Sharyatzadeh - 3D Web Developer" width="100%" />
+</div>
 
-### I build 3D websites that feel like dreams ✨
+<br />
 
----
+<!-- Bio & Socials -->
+<div align="center">
+  <h3>I build 3D websites that feel like dreams ✨</h3>
+  <p>
+    <a href="https://mr3dweb.ir">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-70a1ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-ff4757?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/your-linkedin">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
-## 🚀 What I Do
+<br />
 
-- 🎯 Create stunning **3D product landing pages** that grab attention
-- 🌐 Build immersive **interactive 3D websites** from scratch
-- 💡 Combine **WordPress + 3D** for beautiful & budget-friendly solutions
+<!-- Visual Portfolio Section (The Table) -->
+<h2 align="center">🎨 What I Create</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <strong>Web Experiences</strong><br/><br/>
+        <img src="https://github.com/Mr3DWeb/Mr3DWeb/blob/main/image.png" alt="Website Demo" width="100%" />
+        <br/><br/>
+        <sub>Immersive User Interfaces</sub>
+      </td>
+    </tr>
+  </table>
+  <p align="center">
+    <a href="https://mr3dweb.ir"><b>View Full Portfolio ➜</b></a>
+  </p>
+</div>
 
----
+<br />
 
-## 🛠️ Tech Stack
+<!-- Tech Stack -->
+<h2 align="center">⚡ Tech Stack</h2>
+<div align="center">
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <!-- 3D & Animation -->
+  <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+  <!-- CMS -->
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+</div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br />
 
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Activity</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr3DWeb&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr3DWeb&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" height="180" alt="languages graph" />
+</div>
 
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/mr3dweb/)
-- 📧 [mr3dweb@gmail.com](mailto:mr3dweb@gmail.com)
----
-
-⭐ **Fun Fact:** I turn coffee into 3D websites! ☕➡️🌐
+<br/>
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
+</div>
